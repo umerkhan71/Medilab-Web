@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #1977cc;
+}
+.navbar-head{
+    color: #ffffff;
+}
+.navbar-brand{
+    color: #2C4964!important;
+}
+.main-img{
+    background-image: url(./hero-bg.jpg);
+    background-size: cover;
+}
+.main-img-text h1{
+    color: #2C4964;
+}
+.my-card{
+    background-color: #1977cc !important;
+    color: #ffffff;
+}
+.number{
+    bottom: 30px;
+}
+.card-btn{
+    background-color:#5eaaed;
+    color: #ffffff;
+}
+.card-hover :hover{
+    background-color: #1977cc;
+    color: #ffffff;
+}
+.card-hover i:hover{
+    background-color: #ffffff;
+    color: #1977cc;
+}
+.tab-btn{
+    background-color: white;
+    border: none;
+    margin: 10px;
+}
+.tab-btn:hover{    
+    color: #1977cc;
+}
+.tab-right-border{
+    border-right: 2px solid black;
+}
+.fa-solid{
+    color: #ffffff;
+    background-color: #1977cc;
+}
+.top-icon{
+    color: #1977cc;
+    background-color: #ffffff;
+}
+.bg-color{
+    background-color: #88accb;
+}
+.appoint-btn{
+    background-color: #1977cc;
+    color: #ffffff;
+    border-radius: 59px;
+    display:inline;
+}
+.footer-bg-color{
+    background-color: #d8e7f4;
+}
+.fa-brands{
+    border: 1px solid black;
+}
+.line-height{
+    line-height: 2.5rem;
+}
+.faq{
+    background-color: rgb(142, 243, 243);
+}
